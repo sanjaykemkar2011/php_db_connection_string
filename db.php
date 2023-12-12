@@ -15,7 +15,7 @@ $rec_final_end = 500;
  $host = "localhost";
  $user = "root";
  $pass = "";
- $database = "j4h_test";
+ $database = "your-other-database";
 
 
 
