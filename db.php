@@ -5,10 +5,10 @@ date_default_timezone_set("ASIA/KOLKATA");
 $rec_initial_start = 1;
 $rec_final_end = 500;
 
- $serverName = "LT_KEM"; //serverName\instanceName
- $serverUser = "sa";
- $serverPass = "pass@123";
- $serverDatabase = "j4h_test";
+ $serverName = "Your-server-name"; //serverName\instanceName
+ $serverUser = "your-server-user";
+ $serverPass = "your-password";
+ $serverDatabase = "your-database";
 
 
 
